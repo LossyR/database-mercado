@@ -20,7 +20,7 @@ quantidade INT
 
 INSERT INTO venda VALUES
 (1, '001', 5),
-(1, '001', 5),
+(1, '002', 5),
 (1, '003', 5);
 
 DELIMITER $
